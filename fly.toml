@@ -16,7 +16,7 @@ primary_region = "sjc"
 [env]
   SKYBRIDGE_BASEURL = "skybridge-mihaip.fly.dev"
   SKYBRIDGE_REQUIRE_AUTH_PASSWORD = true
-  SKYBRIDGE_SHOW_INDEX = true
+  SKYBRIDGE_SHOW_INDEX = false
   SKYBRIDGE_ALLOW_BACKFILL = true
   FLY_SWAP = true
 
