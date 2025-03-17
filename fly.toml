@@ -28,7 +28,7 @@ primary_region = "sjc"
   grace_period = "30s"
   interval = "30s"
   method = "GET"
-  timeout = "5s"
+  timeout = "20s"
   path = "/api/v2/instance"
 
 [http_service.concurrency]
